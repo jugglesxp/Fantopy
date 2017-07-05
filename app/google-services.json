@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "375963898167",
+    "firebase_url": "https://fantopy.firebaseio.com",
+    "project_id": "fantopy",
+    "storage_bucket": "fantopy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375963898167:android:4149803d1bd819fa",
+        "android_client_info": {
+          "package_name": "com.fantopy.sports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375963898167-aj16qfsgo6rbghq70j9m9bfe4efj1135.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "375963898167-sc0n48tfk7uemvcsmc7pn7h3vn8mtj78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fantopy.sports",
+            "certificate_hash": "e8ac6caabc41bf91801f42ec381017dd738a372d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn4MHjIjAgOfWYcH9mZ3HyTGXaKw3re64"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375963898167-8u6sdcaveh19gld9081hgjp5meufr11p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fantopy.sports"
+              }
+            },
+            {
+              "client_id": "375963898167-aj16qfsgo6rbghq70j9m9bfe4efj1135.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375963898167:android:d00b5e21d5b9907f",
+        "android_client_info": {
+          "package_name": "com.fantopy.sports.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375963898167-aj16qfsgo6rbghq70j9m9bfe4efj1135.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "375963898167-po6rhts032bga8vcbgjce3ia8ngj9alb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fantopy.sports.dev",
+            "certificate_hash": "64d7178e0de1d0ac0eac5f829c50fb1dd47e13a8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn4MHjIjAgOfWYcH9mZ3HyTGXaKw3re64"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375963898167-8u6sdcaveh19gld9081hgjp5meufr11p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fantopy.sports"
+              }
+            },
+            {
+              "client_id": "375963898167-aj16qfsgo6rbghq70j9m9bfe4efj1135.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375963898167:android:d7ebcb8287d9a92e",
+        "android_client_info": {
+          "package_name": "com.fantopy.beta.fantopy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375963898167-h281uo9k5s5f3v99pbmo8qfqjc1ogjgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fantopy.beta.fantopy",
+            "certificate_hash": "38eecebc5a2662e1cfa2d67e03ee625b84c6039c"
+          }
+        },
+        {
+          "client_id": "375963898167-aj16qfsgo6rbghq70j9m9bfe4efj1135.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn4MHjIjAgOfWYcH9mZ3HyTGXaKw3re64"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375963898167-8u6sdcaveh19gld9081hgjp5meufr11p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fantopy.sports"
+              }
+            },
+            {
+              "client_id": "375963898167-aj16qfsgo6rbghq70j9m9bfe4efj1135.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
